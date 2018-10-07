@@ -24,7 +24,7 @@ sample xml:
 	<inExtraCommands></inExtraCommands>
 	<outExtraCommands></outExtraCommands>
 	<dbScriptFileName>script</dbScriptFileName>
-	<dbScriptFilePath>D:\projects\rescue\rescue\output</dbScriptFilePath>
+	<dbScriptFilePath>D:\output</dbScriptFilePath>
 	<inDbTableNames>table1,table2,table3</inDbTableNames>
 	<outDbTableNames>table1,table2,table3</outDbTableNames>
 	<verifyLastRowTableNames>table5,table6</verifyLastRowTableNames>
